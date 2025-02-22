@@ -1,0 +1,6 @@
+shiny
+shinyswatch
+pandas
+openpyxl
+markdownify
+git+https://github.com/Lightbridge-KS/radreportparser.git@v0.1.1
