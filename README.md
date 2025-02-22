@@ -1,10 +1,11 @@
-This template gives you a basic Shiny dashboard.
-Shiny includes most of the components that you'll need to build performant data dashboards
-including:
+# RadReportParser App
 
-- [Sidebar pages](https://shiny.posit.co/py/api/ui.layout_sidebar.html)
-- [Value boxes](https://shiny.posit.co/py/api/ui.value_box.html)
-- [Popovers](https://shiny.posit.co/py/api/ui.popover.html) and [tooltips](https://shiny.posit.co/py/api/ui.popover.html)
-- [Accordions](https://shiny.posit.co/py/api/ui.accordion.html)
-- [Modals](https://shiny.posit.co/py/api/ui.modal.html)
-- [Cards](https://shiny.posit.co/py/api/ui.card.html)
+> A Python web app for extract key sections from radiology reports text
+
+**Web App:** <https://lightbridge-ks.shinyapps.io/radreportparser/>
+
+
+**Build using:**
+
+1. [radreportparser](https://github.com/Lightbridge-KS/radreportparser): A regex-based text parser for common radiology report
+2. [Shiny for Python](https://shiny.posit.co/py/)
