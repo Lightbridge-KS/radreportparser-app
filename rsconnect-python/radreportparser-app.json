@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "/Users/kittipos/my_app/radreportparser-app",
+        "app_url": "https://lightbridge-ks.shinyapps.io/radreportparser/",
+        "app_id": 14068173,
+        "app_guid": null,
+        "title": "radreportparser",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
